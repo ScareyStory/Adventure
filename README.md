@@ -21,7 +21,7 @@ The game can now be played.
 
 Time can be requested by entering "time" at the prompt.
 
-Here is an example run:
+## Example Run
 
 gcc -ansi caplains.buildrooms.c -o caplains.buildrooms
 ./caplains.buildrooms
